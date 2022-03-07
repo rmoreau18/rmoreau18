@@ -1,5 +1,5 @@
 Hi, I’m @rmoreau18. I am Masters of Statistics student at Simon Fraser University in Burnaby, BC, Canada.
-  - I’m interested in sports analytics and eonometrics
+  - I’m interested in sports analytics and econometrics
   - You can reach me by email at rykermoreau@gmail.com
 
 <!---
